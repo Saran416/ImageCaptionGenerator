@@ -1,0 +1,6 @@
+#These are the dataset files
+captions.txt
+Images
+.ipynb_checkpoints
+best_model.h5
+features.pkl
